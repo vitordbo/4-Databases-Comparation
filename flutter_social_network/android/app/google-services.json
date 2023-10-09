@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310843735783",
+    "project_id": "trab3-angelica",
+    "storage_bucket": "trab3-angelica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310843735783:android:e7fb316d4be259be28ec42",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social_network"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSat_Z13pI6W-V5ib0BXFqMHYu9dLrKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
